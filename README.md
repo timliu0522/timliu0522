@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am Tim Liu, a software developer and undergrad HCI researcher from University of Waterloo.
+- 🔭 I’m currently working at **Microsoft** for The Coalition, XBOX Studio.
+- 🌱 I’m also doing part-time HCI research at UWaterloo.
+- 😄 I am interested in HCI research topics such as **digital communication**, **AR/VR**, and **Human-AI Interaction**.
+- ⚡ I interned as a software developer at Unity, Huawei, and BMO before Microsoft.
+
 <!--
 **timliu0522/timliu0522** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
